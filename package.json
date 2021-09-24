@@ -1,22 +1,17 @@
 {
-  "author": "WeAreAthlon <hello@weareathlon.com> (https://www.weareathlon.com)",
-  "name": "@weareathlon/frontend-webpack-boilerplate",
-  "version": "5.10.0",
-  "description": "Starter project template boilerplate based on Webpack with SASS/PostCSS and babel ES6/7 support.",
-  "homepage": "https://github.com/WeAreAthlon/frontend-webpack-boilerplate#readme",
+  "author": "Ebubekir Ruzgar",
+  "name": "ciceksepeti-patika.dev-homework-2",
+  "version": "1.0.0",
+  "description": "",
   "browserslist": [
     "last 2 versions",
     "> 5%"
   ],
-  "bugs": {
-    "url": "https://github.com/WeAreAthlon/frontend-webpack-boilerplate/issues",
-    "email": "plamen@athlonsofia.com"
-  },
   "contributors": [
     {
-      "name": "Plamen Nikolov",
-      "email": "me@pnikoloff.com",
-      "url": "https://pnikoloff.com"
+      "name": "Ebubekir Ruzgar",
+      "email": "ebubekirrzgr@gmail.com",
+      "url": "https://github.com/ebubekirrzgr"
     }
   ],
   "devDependencies": {
