@@ -30,8 +30,7 @@ class About extends ThisProject
             HTML::class,
             WebPack::class,
             Babel::class,
-            ESLint::class,            
-            Aws::class
+            ESLint::class
         ];
     }
 
