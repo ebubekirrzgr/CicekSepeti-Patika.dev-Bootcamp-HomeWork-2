@@ -2,7 +2,7 @@
 
 ------
 
-![project](C:\Users\ebubek\Documents\GitHub\HM\CicekSepeti-Patika.dev-Bootcamp-HomeWork-2\src\images\project.png)
+![project](https://raw.githubusercontent.com/ebubekirrzgr/CicekSepeti-Patika.dev-Bootcamp-HomeWork-2/master/src/images/project.png)
 
 ------
 
@@ -44,5 +44,5 @@ class About extends ThisProject
 
 ------
 
-[Click here to go live](www.google.com)
+[Click here to go live](https://cicek-sepeti-patika-dev-bootcamp-home-work-2.vercel.app/)
 
